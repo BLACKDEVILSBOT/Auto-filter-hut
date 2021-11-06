@@ -1,3 +1,5 @@
+#Code by @BLACK_DEVIL_TG
+
 import asyncio
 from datetime import datetime
 from typing import List
