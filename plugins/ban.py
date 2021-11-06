@@ -1,3 +1,5 @@
+#Code by @BLACK_DEVIL_TG
+
 from pyrogram import Client, filters
 
 @Client.on_message(filters.command(["ban"]))
