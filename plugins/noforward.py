@@ -1,3 +1,5 @@
+#Code by @BLACK_DEVIL_TG
+
 import os
 from pyrogram import Client, filters
 
